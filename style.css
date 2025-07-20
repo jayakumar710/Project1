@@ -1,0 +1,40 @@
+body
+{
+    background-image: url(im.4.jpg);
+    height:100%;
+    display: flex;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+footer
+{
+ background-image: url(im.14.jpg);
+    height:20em;
+    display: flex;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    justify-content:center;
+    align-items: end;
+    margin-bottom:10px;
+}
+.foo
+{
+    margin-bottom:7em;
+    justify-content: space-between;
+}
+.social
+{
+margin-bottom:7em;
+}
+
+.pro
+{
+    text-align: center;
+    justify-content: space-between;
+}
+
+.hii
+{
+    color: aliceblue;
+}
